@@ -4,9 +4,6 @@ import java.util.Comparator;
  * Created by ПК on 14.09.2016.
  */
 
-
-
-
 abstract public class Employee implements Comparable<Employee> {
     private int id;
     private String name;
